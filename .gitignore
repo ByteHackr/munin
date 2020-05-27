@@ -15,7 +15,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
@@ -107,3 +106,5 @@ vt-hash-db.json
 old-results
 *.zip
 *.gz
+vt-hosts-db.json
+flo-old.ini
